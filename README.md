@@ -4,8 +4,11 @@
 - 💞️ I’m looking to collaborate on information of any kind(the bigger the better). 
 - 🔎 I'm found to be efficient, solution oriented, and fact driven to be lean.
 - 📫 How to reach me:
+
 mlanettet@yahoo.com
+
 https://mischie2go.wixsite.com/mischa-hermes 
+
 https://www.linkedin.com/in/mischa-hermes
 
 <!---
