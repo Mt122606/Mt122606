@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning python!
 - 💞️ I’m looking to collaborate on information of any kind(the bigger the better). 
 - 🔎 I'm found to be efficient, solution oriented, and fact driven to be lean.
+
+"If I cant read it for understanding, I can recreate it to be understood"
+
 - 📫 How to reach me:
 
 mlanettet@yahoo.com
