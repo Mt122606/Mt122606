@@ -3,6 +3,12 @@
 - 🌱 I’m currently learning python!
 - 💞️ I’m looking to collaborate on information of any kind(the bigger the better). 
 - 🔎 I'm found to be efficient, solution oriented, and fact driven to be lean.
+  I have experience in :
+- 🏆 SAP
+- 🏅 Python
+- 🥈 SQL
+  I have trainning in :
+- 🥉 R
 
 "If I cant read it for understanding, I can recreate it to be understood"
 
