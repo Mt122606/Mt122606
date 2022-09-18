@@ -8,9 +8,12 @@
 - 🏆 SAP
 - 🏅 Python
 - 🥈 SQL
+- Oracle
+- Microsoft
   
   I have trainning in :
 - 🥉 R
+
 
 "If I cant read it for understanding, I can recreate it to be understood"
 
