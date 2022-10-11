@@ -14,11 +14,13 @@
   I have trainning in :
 - 🥉 R
 - 🐸 Toad
+- PyCharms
 
 
 "If I cant read it for understanding, I can recreate it to be understood"
 
 - 📫 How to reach me:
+702-344-8424
 
 mlanettet@yahoo.com
 
