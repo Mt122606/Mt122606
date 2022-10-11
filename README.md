@@ -13,6 +13,7 @@
   
   I have trainning in :
 - 🥉 R
+- 🐸 Toad
 
 
 "If I cant read it for understanding, I can recreate it to be understood"
