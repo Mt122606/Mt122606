@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mischa Hermes@Mt122606
 - 👀 I’m interested in procurement, sourcing, analytics, business development, projects, etc.
 - 🌱 I’m always learning!
-- 💞️ I’m looking to collaborate on information and enjoy porchurment and logistics. 
+- 💞️ I’m looking to collaborate on information; larger data the more fun! 
 - 🔎 I'm found to be efficient, solution oriented, and fact driven to be lean.
   
   I have experience in :
