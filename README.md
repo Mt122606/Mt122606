@@ -20,7 +20,7 @@
 "If I cant read it for understanding, I can recreate it to be understood"
 
 - 📫 How to reach me:
-702-344-8424
+850-502-2885
 
 mlanettet@yahoo.com
 
