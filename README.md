@@ -1,23 +1,23 @@
 - 👋 Hi, I’m Mischa Hermes@Mt122606
-- 👀 I’m interested in procurement, sourcing, analytics, business development, projects, etc.
-- 🌱 I’m always learning!
-- 💞️ I’m looking to collaborate on information; larger data the more fun! 
-- 🔎 I'm found to be efficient, solution oriented, and fact driven to be lean.
+- 👀 Interested in analytics, procurement, business development, projects, etc.
+- 🌱 Learning!
+- 💞️ Looking to collaborate on information. The larger the data, the more fun we can have! 
+- 🔎 Found to be efficient, solution-oriented, and fact-driven to be lean.
   
-  I have experience in :
-- 🏆 SAP
-- 🏅 Python
-- 🥈 SQL
+  Experience:
+- 🏆 Python
+- 🏅 R
+- 🥈 Tableau
+- 🥉 SQL
+- AWS
+- SAP
 - Oracle
 - Microsoft
-  
-  I have trainning in :
-- 🥉 R
-- 🐸 Toad
-- PyCharms
+- SAS
+- Google
 
 
-"If I cant read it for understanding, I can recreate it to be understood"
+"Read it for understanding. Recreate understanding for use. Use for good!"
 
 - 📫 How to reach me:
 850-502-2885
