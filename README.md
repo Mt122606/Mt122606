@@ -1,15 +1,19 @@
  👋 Hi, I’m Mischa Hermes@Mt122606
+ 
  👀 Interested in analytics, procurement, business development, projects, etc.
+ 
  🌱 Learning!
+ 
  💞️ Looking to collaborate on information. The larger the data, the more fun we can have! 
+ 
  🔎 Found to be efficient, solution-oriented, and fact-driven to be lean.
   
-  Experience:
-- 🏆 Python          - Microsoft
-- 🏅 R               - Oracle
-- 🥈 Tableau         - SAP
-- 🥉 SQL             - AWS
-- SAS                - Google
+  Showcase:
+- 🏆 Python
+- 🏅 R               
+- 🥈 Tableau         
+- 🥉 SQL             
+- 📚 Excel                
 
 "Read it for understanding. Recreate understanding for use. Use for good!"
 
