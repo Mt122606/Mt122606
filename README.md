@@ -11,7 +11,7 @@
  🔎 Found to be efficient, solution-oriented, and fact-driven to be lean.
   
   Showcase:
-- 🏆 Python
+- 🏆 [Python](https://github.com/Mt122606/Mischa/blob/main/Input_GuestList.py)
 - 🏅 R               
 - 🥈 Tableau         
 - 🥉 SQL             
