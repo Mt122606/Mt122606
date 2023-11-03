@@ -1,11 +1,12 @@
 ![image](https://github.com/Mt122606/Mt122606/assets/108757589/d400e32f-e296-4295-9ff4-1c1d81810574)
- 👋 Hi, I’m Mischa Hermes@Mt122606
+ ##👋 Hi, I’m Mischa Hermes 
+ ####[Resume](https://github.com/Mt122606/Mischa/blob/main/About_me/Analyst-112023.pdf)
  
- 👀 Interested in analytics, procurement, business development, projects, etc.
+ 👀 Interested in analytics, procurement, business development, help desk, and projects.
  
  🌱 Growing!
  
- 💞️ Looking to collaborate on information. The larger the data, the more fun we can have and the more reliable our solution!
+ 💞️ Looking to collaborate on information. The larger the data, the more fun we can have and the more reliable our solutions!
  I am fast and your data is waiting for me to tell its story. I am ready to mine gold! 
  
  🔎 Found to be efficient, solution-oriented, and fact-driven to be lean.
