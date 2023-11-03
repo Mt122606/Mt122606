@@ -1,3 +1,4 @@
+![image](https://github.com/Mt122606/Mt122606/assets/108757589/d400e32f-e296-4295-9ff4-1c1d81810574)
  👋 Hi, I’m Mischa Hermes@Mt122606
  
  👀 Interested in analytics, procurement, business development, projects, etc.
