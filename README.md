@@ -3,9 +3,10 @@
  
  👀 Interested in analytics, procurement, business development, projects, etc.
  
- 🌱 Learning!
+ 🌱 Growing!
  
- 💞️ Looking to collaborate on information. The larger the data, the more fun we can have! 
+ 💞️ Looking to collaborate on information. The larger the data, the more fun we can have and the more reliable our solution!
+ I am fast and your data is waiting for me to tell its story. I am ready to mine gold! 
  
  🔎 Found to be efficient, solution-oriented, and fact-driven to be lean.
   
