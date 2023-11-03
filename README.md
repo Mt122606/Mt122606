@@ -12,11 +12,12 @@
  🔎 Found to be efficient, solution-oriented, and fact-driven to be lean.
   
   Showcase:
+- [Scrum Leader](https://github.com/Mt122606/Curous-Conquers-)
 - 🏆 [Python](https://github.com/Mt122606/Mischa/blob/main/Input_GuestList.py)
-- 🏅 R               
-- 🥈 Tableau         
-- 🥉 SQL             
-- 📚 Excel                
+- 🏅 [R](https://github.com/Mt122606/Training/blob/SCI_WOZU/R_Sample1/HandsOnL06.R)               
+- 🥈 [Tableau](https://github.com/Mt122606/Curous-Conquers-/blob/main/CuriousConquersProject/Visuals/Tableau%20Workbook3.6.pdf)        
+- 🥉 [NoSQL](https://github.com/Mt122606/Training/blob/SCI_WOZU/NoSQL_Sample1/Lesson5handson.mongodb)             
+- 📚 [Excel](https://github.com/Mt122606/Mischa/tree/main/Projects/MunchieProject/Data)                
 
 "Read it for understanding. Recreate understanding for use. Use for good!"
 
